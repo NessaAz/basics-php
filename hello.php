@@ -9,7 +9,9 @@
 <body>
     <!-- create special php tags -->
     <?php
-        echo('Hello world');
+
+        echo('Hello world <h1>hello</h1>');
+        echo("<p> this is the first website</p>");
     ?>
     
 </body>
